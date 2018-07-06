@@ -4,7 +4,7 @@ This texture pack is a button replacer(DS4/XboxOne), title screen change, and su
 
 [Imgur Gallery](https://imgur.com/a/hIygu)
 
-# Latest Ver: Ver.1.0.0
+# Latest Ver: Ver.1.0.5
 
 Download https://github.com/NautilusXV/ZeroNoKisekiPC/releases
 
